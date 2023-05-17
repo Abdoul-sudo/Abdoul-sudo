@@ -3,19 +3,15 @@
 <img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI2NTc3YTFhMjAzMmIyMmJmYjU0ZGJiNjVkM2ZjMjc2MTM3YmY4YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/zhYSVCirREeIZtONCI/giphy.gif" width="260">
 
 <p><em> <a  href="/">Fullstack Web Developper </a></em></p>
+
+[![Linkedin: Abdoul](https://img.shields.io/badge/-Abdoul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdoul-ismael-132a40210/)](https://www.linkedin.com/in/abdoul-ismael-132a40210/)
+![GitHub followers](https://img.shields.io/github/followers/Abdoul-sudo?label=Follow&style=social)
+
 <p align="left" ><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=28&vCenter=true&lines=ISMAEL+Abdoul+Wahhaab"></p>
 
 <!-- [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/) -->
 
-<h2 style="display: flex; align-items: center; font-weight: bold;"><img src="https://media3.giphy.com/media/6JmX7b4Bdgh1sQzoBZ/giphy.gif?cid=ecf05e4711ukduca28f4rljystvycwey7u3d0vqadg677p42&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="50"/> À propos de moi</h2> 
-
-• Étudiant <a href="/">passionné </a> de l'IT <br>
-• Je suis du genre à constamment essayer de m'améliorer via des expériences <a href="/"> nouvelles </a> , <a href="/"> enrichissantes </a> et <a href="/"> épanouissantes </a>
-<br><br>
-
-[![Linkedin: Abdoul](https://img.shields.io/badge/-Abdoul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdoul-ismael-132a40210/)](https://www.linkedin.com/in/abdoul-ismael-132a40210/)
-![GitHub followers](https://img.shields.io/github/followers/Abdoul-sudo?label=Follow&style=social)
-<br><br><hr>
+<br>
 
 <h2 style="display: flex; align-items: center; font-weight: bold;"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWEzZjg0ZGE4OGViNGRhMDUwY2Q2ZDIyNWUwZmZiMTA0ZDUyMTJiOSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/YIoRLftPZQCFSQXIzp/giphy.gif" width="50"/> Compétences</h2>
 
