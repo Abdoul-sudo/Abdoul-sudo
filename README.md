@@ -4,7 +4,7 @@
 
 <p><em> <a  href="/">Fullstack Web Developper </a></em></p>
 <p align="left" ><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=28&vCenter=true&lines=ISMAEL+Abdoul+Wahhaab"></p>
-<hr>
+
 <!-- [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/) -->
 
 <h2 style="display: flex; align-items: center; font-weight: bold;"><img src="https://media3.giphy.com/media/6JmX7b4Bdgh1sQzoBZ/giphy.gif?cid=ecf05e4711ukduca28f4rljystvycwey7u3d0vqadg677p42&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="50"/> À propos de moi</h2> 
