@@ -1,6 +1,6 @@
 <h2 style="font-weight: bold; "><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDA1OTc5NTU0MzkzMTViYjQ3YmViZDYwNjk4YmM0MWM4NzQ0Yzk3NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXRz/g0jg6lMcNORSlOv9Zb/giphy.gif" width="50"/> Bienvenue sur mon profil GitHub ! </h2>
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
-<img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI2NTc3YTFhMjAzMmIyMmJmYjU0ZGJiNjVkM2ZjMjc2MTM3YmY4YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/zhYSVCirREeIZtONCI/giphy.gif" width="260">
+<img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI2NTc3YTFhMjAzMmIyMmJmYjU0ZGJiNjVkM2ZjMjc2MTM3YmY4YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/zhYSVCirREeIZtONCI/giphy.gif" width="230">
 
 <p><em> <a  href="/">Fullstack Web Developper </a></em></p>
 
