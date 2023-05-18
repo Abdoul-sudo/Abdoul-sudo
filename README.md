@@ -5,7 +5,7 @@
 <p><em> <a  href="/">Fullstack Web Developper </a></em></p>
 
 [![Linkedin: Abdoul](https://img.shields.io/badge/-Abdoul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdoul-ismael-132a40210/)](https://www.linkedin.com/in/abdoul-ismael-132a40210/)
-![GitHub followers](https://img.shields.io/github/followers/Abdoul-sudo?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/Abdoul-sudo?label=Follow_me&style=social)
 
 <p align="left" ><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=28&vCenter=true&lines=ISMAEL+Abdoul+Wahhaab"></p>
 
