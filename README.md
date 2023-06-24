@@ -5,7 +5,6 @@
 <p><em> <a  href="/">Fullstack Web Developper </a></em></p>
 
 [![Linkedin: Abdoul](https://img.shields.io/badge/-Abdoul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdoul-ismael-132a40210/)](https://www.linkedin.com/in/abdoul-ismael-132a40210/)
-![GitHub followers](https://img.shields.io/github/followers/Abdoul-sudo?label=Follow_me&style=social)
 
 <p align="left" ><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=28&vCenter=true&lines=ISMAEL+Abdoul+Wahhaab"></p>
 
@@ -18,7 +17,7 @@
 <div>
     
 <p align="center"> 
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Abdoul-sudo&amp;theme=leafy&amp;date_format=j%20M%5B%20Y%5D&amp;ring=047884&amp;sideNums=06ACBD&amp;dates=06ACBD&amp;currStreakNum=08E8FF&amp;currStreakLabel=08E8FF&amp;background=ffffff00&amp;hide_border=true" alt="GitHub Streak Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Abdoul-sudo&amp;theme=leafy&amp;date_format=j%20M%5B%20Y%5D&amp;ring=047884&amp;sideNums=06ACBD&amp;dates=06ACBD&am;currStreakNum=08E8FF&amp;currStreakLabel=08E8FF&amp;background=ffffff00&amp;hide_border=true" alt="GitHub Streak Stats"/>
     <br>
 </p>
 
