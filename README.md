@@ -3,7 +3,7 @@
 <img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI2NTc3YTFhMjAzMmIyMmJmYjU0ZGJiNjVkM2ZjMjc2MTM3YmY4YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/zhYSVCirREeIZtONCI/giphy.gif" width="230">
 
 
-<a href="https://abdoulportfolio.vercel.app">![🔗 My portfolio](https://img.shields.io/badge/🔗%20My%20portfolio-8A2BE2)</a>
+<a href="https://abdoulportfolio.vercel.app" target="_blank">![🔗 My portfolio](https://img.shields.io/badge/🔗%20My%20portfolio-8A2BE2)</a>
 
 [![Linkedin: Abdoul](https://img.shields.io/badge/-Abdoul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdoul-ismael-132a40210/)](https://www.linkedin.com/in/abdoul-ismael-132a40210/)
 ![GitHub followers](https://img.shields.io/github/followers/Abdoul-sudo?label=Follow_me&style=social)
