@@ -13,7 +13,7 @@
 
 <br>
 
-<h2 style="display: flex; align-items: center; font-weight: bold;"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWEzZjg0ZGE4OGViNGRhMDUwY2Q2ZDIyNWUwZmZiMTA0ZDUyMTJiOSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/YIoRLftPZQCFSQXIzp/giphy.gif" width="50"/> Competences</h2>
+<h2 style="display: flex; align-items: center; font-weight: bold;"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWEzZjg0ZGE4OGViNGRhMDUwY2Q2ZDIyNWUwZmZiMTA0ZDUyMTJiOSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/YIoRLftPZQCFSQXIzp/giphy.gif" width="50"/> My skills </h2>
 
 <div>
     
