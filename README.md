@@ -6,7 +6,7 @@
 
 <a href="https://abdoulportfolio.vercel.app" target="_blank">![🔗 My portfolio](https://img.shields.io/badge/🔗%20My%20portfolio-8A2BE2)</a>
 [![Linkedin: Abdoul](https://img.shields.io/badge/-Abdoul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdoul-ismael-132a40210/)](https://www.linkedin.com/in/abdoul-ismael-132a40210/)
-![GitHub followers](https://img.shields.io/github/followers/Abdoul-sudo?label=Follow_me&style=social)
+![GitHub followers](https://img.shields.io/github/followers/Abdoul-sudo?label=Followers&style=social)
 
 
 
