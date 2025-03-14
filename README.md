@@ -1,58 +1,118 @@
-<h2 style="font-weight: bold; "><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDA1OTc5NTU0MzkzMTViYjQ3YmViZDYwNjk4YmM0MWM4NzQ0Yzk3NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXRz/g0jg6lMcNORSlOv9Zb/giphy.gif" width="50"/> Welcome to my profile ! </h2> 
-<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
-<img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI2NTc3YTFhMjAzMmIyMmJmYjU0ZGJiNjVkM2ZjMjc2MTM3YmY4YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/zhYSVCirREeIZtONCI/giphy.gif" width="230">
+<h2 align="center">
+  <img src="https://media1.giphy.com/media/g0jg6lMcNORSlOv9Zb/giphy.gif" width="50"/> 
+  Welcome to My Profile!
+</h2> 
 
-<p align="left" ><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=28&vCenter=true&lines=ISMAEL+Abdoul+Wahhaab"></p>
-
-<a href="https://abdoulportfolio.vercel.app" target="_blank">![🔗 My portfolio](https://img.shields.io/badge/🔗%20My%20portfolio-8A2BE2)</a>
-[![Linkedin: Abdoul](https://img.shields.io/badge/-Abdoul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdoul-ismael-132a40210/)](https://www.linkedin.com/in/abdoul-ismael-132a40210/)
-![GitHub followers](https://img.shields.io/github/followers/Abdoul-sudo?label=Followers&style=social)
-
-
-
-<!-- [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/) -->
-
-<br>
-
-<h2 style="display: flex; align-items: center; font-weight: bold;"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWEzZjg0ZGE4OGViNGRhMDUwY2Q2ZDIyNWUwZmZiMTA0ZDUyMTJiOSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/YIoRLftPZQCFSQXIzp/giphy.gif" width="50"/> My skills </h2>
-
-<div>
-    
-<p align="center"> 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdoul-sudo&amp;theme=leafy&amp;date_format=j%20M%5B%20Y%5D&amp;ring=047884&amp;sideNums=06ACBD&amp;dates=06ACBD&amp;currStreakNum=08E8FF&amp;currStreakLabel=08E8FF&amp;background=ffffff00&amp;hide_border=true" alt="GitHub Streak Stats"/>
-    <br>
-</p>
-
+<!-- Right-side GIF -->
 <p align="center">
+  <img src="https://media1.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="230">
 </p>
-<!-- front -->
+
+<!-- Typing animation for name -->
 <p align="center">
-<!--     <img alt="vuejs" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" /> -->
-    <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
-    <img alt="Nextjs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img alt="laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-    <img alt="symfony" src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=teal&size=28&vCenter=true&lines=ISMAEL+Abdoul+Wahhaab">
 </p>
 
-<!-- back -->
-<!--     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
-    <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white" /> -->
+<!-- Social Links -->
+<p align="center">
+  <a href="https://abdoulportfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=BookStack&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/abdoul-ismael-132a40210/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:ismaelabdoul7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <img src="https://img.shields.io/github/followers/Abdoul-sudo?color=green&label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers">
+</p>
 
-<!-- sgbd -->
-<!--     <img alt="mysql" src="https://shields.io/badge/MySQL-%23323330?logo=mysql&style=for-the-badge&logoColor=white&labelColor=blue" /> -->
-<!--     <img alt="postgresql" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /> -->
-<br>
+---
 
-<!-- <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Abdoul-sudo&show_icons=true&theme=dracula&hide=stars,issues" alt="GitHub Streak Stats"/>
-    <br>
-</p> -->
+## 🚀 About Me  
+🔎 I’m a **Full-Stack Developer** specializing in:  
+🎨 **Frontend:** Modern UI/UX, **React, Next.js**  
+⚙️ **Backend:** Robust APIs with **Laravel, Symfony**  
+🎮 **Game Development:** Unity & C# for immersive experiences  
+🛠️ **Tools & Technologies:** Git, Docker, CI/CD, and cloud systems  
+📚 Constantly learning and exploring new technologies 🚀  
 
-<!-- <p align=center>
-  <strong>
-      <img src='https://komarev.com/ghpvc/?username=Abdoul-sudo&color=008080'>
-  </strong>
-<p> -->
+---
 
-</div>
+## 🛠 My Skills
+
+### 👨‍💻 Programming Languages:
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+</p>
+
+### 🎨 Frontend Development:
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+### 🏗 Backend & Database:
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### 🎮 Game Development:
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+</p>
+
+### 🛠 Tools & DevOps:
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-F15025?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdoul-sudo&theme=leafy&date_format=j%20M%5B%20Y%5D&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=08E8FF&currStreakLabel=08E8FF&background=ffffff00&hide_border=true" alt="GitHub Streak Stats">
+</p>
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdoul-sudo&show_icons=true&theme=radical&hide=stars,issues" alt="GitHub Stats">
+</p>
+
+<!-- Most Used Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdoul-sudo&layout=compact&theme=radical" alt="Most Used Languages">
+</p>
+
+---
+
+## 📫 Connect with Me!
+<p align="center">
+  <a href="https://abdoulportfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=BookStack&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/abdoul-ismael-132a40210/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:ismaelabdoul7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
+---
+
+<!-- Profile Views Count -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdoul-sudo&color=008080" alt="Profile Views">
+</p>
