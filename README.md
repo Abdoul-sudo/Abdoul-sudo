@@ -30,10 +30,10 @@
 ---
 
 ## 🚀 About Me  
-🔎 I’m a **Full-Stack Developer** specializing in:  
+I’m a **Full-Stack Developer** specializing in:  
 🎨 **Frontend:** Modern UI/UX, **React, Next.js**  
 ⚙️ **Backend:** Robust APIs with **Laravel, Symfony**  
-🎮 **Game Development:** Unity & C# for immersive experiences  
+🎮 **Game Development:** Unity & C# 
 🛠️ **Tools & Technologies:** Git, Docker, CI/CD, and cloud systems  
 📚 Constantly learning and exploring new technologies 🚀  
 
