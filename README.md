@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=teal&size=28&vCenter=true&lines=ISMAEL+Abdoul+Wahhaab">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=teal&size=28&vCenter=true&lines=Abdoul+Wahhaab+ISMAEL">
 </p>
 
 <p align="center">
